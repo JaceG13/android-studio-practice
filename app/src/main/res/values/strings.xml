@@ -1,6 +1,5 @@
 <resources>
-    <string name="app_name">HelloWorld</string>
-    <string name="second_page">Welcome to my second page!</string>
-    <string name="first_page">Hello World! Welcome to my app!</string>
-    <string name="next_page_button">Next Page</string>
+    <string name="app_name">Practice App</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
 </resources>
